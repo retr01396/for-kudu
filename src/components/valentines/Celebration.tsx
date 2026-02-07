@@ -20,7 +20,7 @@ import VideoPlayer from './VideoPlayer';
 // TODO: Import your video files here
 // import ourVideo from '@/assets/video/our-video.mp4';
 // import giftVideo from '@/assets/video/gift-video.mp4';
-import ourVideo from '@/assets/video/vedio .mp4';
+import ourVideo from '@/assets/video/vedio.mp4';
 import giftVideo from '@/assets/video/gift.mp4';
 
 const Celebration = () => {
